@@ -112,8 +112,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ```typescript
 export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
+  { name: "About", link: "#satu" },
+  { name: "Projects", link: "#dua" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
